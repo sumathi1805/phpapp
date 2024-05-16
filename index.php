@@ -7,6 +7,7 @@ $host = $config['db_host'];
 $dbname = $config['db_name'];
 $username = $config['db_user'];
 $password = $config['db_pass'];
+$charset = $config['charset'];
 
 // Connect to the database
 try {
