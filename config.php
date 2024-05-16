@@ -4,5 +4,7 @@ $config = [
     'db_name' => 'phpdb',
     'db_user' => 'admin',
     'db_pass' => 'admin1234'
+    'charset' => 'utf8mb4'
+
 ];
 ?>
